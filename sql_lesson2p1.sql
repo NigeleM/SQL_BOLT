@@ -1,0 +1,18 @@
+-- SQL Lesson 2: Queries with constraints (Pt. 1)
+-- https://sqlbolt.com/lesson/select_queries_with_constraints
+-- Queries
+SELECT * FROM movies
+where id = 6;
+-- 
+SELECT * FROM movies
+where year between 2000 and 2010;
+--
+SELECT * FROM movies
+where year not between 2000 and 2010;
+--
+SELECT * FROM movies
+limit 5;
+
+
+
+
