@@ -1,4 +1,3 @@
-
 -- SQL Review: Simple SELECT Queries
 -- https://sqlbolt.com/lesson/select_queries_review
 -- Queries
